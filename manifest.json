@@ -1,0 +1,6 @@
+{
+    "name": "Nikhil's first extension",
+    "version": "1.0",
+    "description": "Building an Extension!",
+    "manifest_version": 2
+  }
